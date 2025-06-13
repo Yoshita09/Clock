@@ -12,10 +12,12 @@ Live Demo: [Click here to view](https://yoshita09.github.io/Clock/)
 - 🔧 Built using HTML, CSS, and JavaScript 
 
 ## 📁 Project Structure
+```
 Clock/
 ├── index.html # HTML layout for analog and digital display
 ├── style.css # Styling for clock UI
 └── script.js # Logic for updating time, date, and day
+```
 
 ## 🚀 How to Run
 
